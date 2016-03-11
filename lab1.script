@@ -1,5 +1,5 @@
-Script started on 2016年03月11日 (週五) 22時12分19秒
-]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ whoami;pwd
+Script started on 2016年03月11日 (週五) 22時47分25秒
+]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ sc[K[Kwhoami;;[Kpwd
 F74046153
 /home/F74046153/lab1
 ]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ git config -l
@@ -9,17 +9,10 @@ core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
 core.logallrefupdates=true
-]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ git clone https://githubm[K.com/ gineo[Kdoc/lab1.git
+alias.st=status
+]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ git clone https://github.com/ ginedoc/lab1.git
 Cloning into 'lab1'...
-Username for 'https://github.com': gien  neo doc
-Password for 'https://ginedoc@github.com': 
-fatal: Authentication failed
-]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ git clone https://github.com/gginedoc/lab1.git
-Cloning into 'lab1'...
-Username for 'https://github.com': ginedoc
-Password for 'https://ginedoc@github.com': 
-error: The requested URL returned error: 403 while accessing https://github.com/ginedoc/lab1.git/info/refs
-fatal: HTTP request failed
+warning: You appear to have cloned an empty repository.
 ]0;F74046153@2015cpp: ~/lab1F74046153@2015cpp:~/lab1$ exit
 
-Script done on 2016年03月11日 (週五) 22時13分43秒
+Script done on 2016年03月11日 (週五) 22時48分22秒
